@@ -8,7 +8,7 @@ api_id = 'your api_id, you can get it from https://my.telegram.org'
 api_hash = 'your api_hash, you can get it from https://my.telegram.org'
 # login to https://my.telegram.org -> enter "API development tools" -> enter information in the top two,
 # if you want, you can also enter in the rest, so you can get api_id and api_hash
-phone_number = '+998770116404'  # your phone_number
+phone_number = '+998777777777'  # your phone_number
 
 client = TelegramClient('anon', api_id, api_hash)
 
